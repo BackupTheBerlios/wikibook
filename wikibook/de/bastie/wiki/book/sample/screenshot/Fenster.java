@@ -1,9 +1,9 @@
 package de.bastie.wiki.book.sample.screenshot;
 
 import javax.swing.JFrame;
-
+ 
 /**
- * Klasse für den Wikibook Screenshot
+ * Klasse für den Wikibook Screenshot JFrame
  * @author Bastie - Sebastian Ritter
  */
 public class Fenster {
